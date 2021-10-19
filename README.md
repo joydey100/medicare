@@ -1,6 +1,6 @@
 # MediCare - We Care, We Diagnose
 
-This Website is mainly About a Health Related Website. [Visit Website](https://medicare-react-project.firebaseapp.com/Services).
+This Website is mainly About a Health Related Website. [Visit Website](https://medicare-react-project.firebaseapp.com).
 
 ## Some Major Features of MediCare
 
