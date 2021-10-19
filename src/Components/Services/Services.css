@@ -3,3 +3,9 @@
   max-height: 200px;
   object-fit: cover;
 }
+
+@media only screen and (max-width: 767px) {
+  .service-img {
+    height: auto;
+  }
+}

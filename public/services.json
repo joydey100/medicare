@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "name": "Treatment of Heart",
     "img": "https://www.umcvc.org/sites/default/files/styles/full_size_image/public/Patient%20receiving%20EECP%20treatment.jpg?itok=ZePAFL5Q",
     "small_desc": "Medicare Heart Centre is where skill and modern technology meet to save and improve lives of both the young and old. From life saving cardiac surgeries to high –tech interventional cardiology –our team of specialist cover the full spectrum of heart diseases with skill and precision.",
@@ -8,10 +8,11 @@
     "doctor": "Mr. Fredrich Walcott",
     "doctor_img": "https://familycounsellorwindsor.com/wp-content/uploads/2016/11/bigstock-Young-medical-doctor-man-isola-105272324-1170x1169.jpg",
     "appointment": "7am to 8pm",
-    "contact": "walcott@gmail.com"
+    "contact": "walcott@gmail.com",
+    "job": "Heart Specialist"
   },
   {
-    "id": 2,
+    "id": "2",
     "name": "Treatment of Orthopedic Problem",
     "img": "https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/04/GettyImages-951890054_header-1024x575.jpg?w=1155&h=1528",
     "small_desc": "Medicare Institutes of Orthopedics is regarded as one of the best & top orthopedics hospital with a legacy of innovation and excellence. The Institutes are at the forefront in offering the latest in Orthopedic treatmentsand Orthopedic surgical advancements. Our Orthopedicians trained at the top centres worldwide, bring with them the latest and best techniques and work in our facilities that have the latest cutting edge technology in terms of equipments, operating rooms, recovery areas and advanced Physical therapy facilities.",
@@ -19,10 +20,11 @@
     "doctor": "Mrs. Sara Willamson",
     "doctor_img": "https://media.istockphoto.com/photos/african-ethnicity-female-doctor-with-a-face-mask-picture-id1277478866?b=1&k=20&m=1277478866&s=170667a&w=0&h=rjNovwD961yFXdpxiAVJwNNL0jzwnN0j05zuCucryTo=",
     "appointment": "10am to 9pm",
-    "contact": "sara@gmail.com"
+    "contact": "sara@gmail.com",
+    "job": "Aurthopedicts"
   },
   {
-    "id": 3,
+    "id": "3",
     "name": "Treatment of Spine",
     "img": "https://www.hopkinsmedicine.org/-/media/images/health/1_-conditions/back-pain-and-spine-conditions/back-exam-teaser.ashx",
     "small_desc": "The spine surgeons perform major and complex spine surgery. Apollo Hospitals is indeed a pioneer and one of the foremost institutions for spine surgery. The spine surgery units at the various locations are a conglomeration of spine specialists in the treatment of spinal disorders, cancers,  deformities as well as specialists in the areas of pain management and physiotherapy. Some of the latest techniques including minimally invasive and robotic surgeries have been done at the various hospitals of the group. The complete range of management options for treating back pain and  spinal disorders are available. Our Spine doctors  will check for list of common spine diseases and conditions of the patient and provide treatment based on the observation",
@@ -30,10 +32,11 @@
     "doctor": "Mr. Willam Wundt",
     "doctor_img": "https://media.istockphoto.com/photos/male-medical-professional-is-confident-in-studio-picture-id1201439096?b=1&k=20&m=1201439096&s=170667a&w=0&h=YXdCLIT-e-reXi8xY-iUkg1XR4_C6TSXrljaHiFmhEU=",
     "appointment": "11am to 5pm",
-    "contact": "william@gmail.com"
+    "contact": "william@gmail.com",
+    "job": "Aurthopedicts"
   },
   {
-    "id": 4,
+    "id": "4",
     "name": "Treatment of Neurological Problem",
     "img": "https://image.freepik.com/free-photo/professional-doctor-neuroscience-developing-treatment-neurological-diseases-examining-patient-evolutions-doctor-researcher-adjusting-eeg-headset-analyzing-brain-functions-health-status_482257-13087.jpg",
     "small_desc": "Ably assisted by the latest Neuro-Radiology services, Neuro-Intensive Care facilities and Medical and Radiation Oncology services, our Neurologists and Neurosurgeons achieve outcomes in neurological disease & treatments matching those of the leading institutions across the globe. Neurosurgery a branch of surgery involved with the brain injury, spine and nerves, is a key specialty at Apollo hospitals. Our neurosurgery doctors treat neurological diseases such as brain injury or diseases, head injury, spinal injury, brain tumors, spinal tumors, brain hemorrhage, hydrocephalus, nerve injuries, tumors, disc prolapse or herniation, spinal dislocation, unstable spine, congenital malformations like atlanto-axial dislocation, spinal dysraphism etc. Treatment of seizures or epilepsy as well as modern treatments for movement disorders like Parkinson’s disease are further specializations. More than 1000 major neurosurgeries are being carried out every year.",
@@ -41,10 +44,11 @@
     "doctor": "Mrs. Harmony Stevens",
     "doctor_img": "https://i.pinimg.com/550x/e9/3d/49/e93d49d69fc4d9208faac67f7743ce3a.jpg",
     "appointment": "12pm to 4pm",
-    "contact": "stevens@gmail.com"
+    "contact": "stevens@gmail.com",
+    "job": "Neurologist"
   },
   {
-    "id": 5,
+    "id": "5",
     "name": "Treatment of Gastrological Problem",
     "img": "https://aakashhealthcare.com/sites/default/files/inline-images/1%20%287%29.JPG",
     "small_desc": "Gastroenterology essentially addresses diseases of the esophagus, stomach, small intestine, colon and rectum, pancreas, gallbladder, bile ducts and liver. The functioning of the entire digestive system, both related to the passage of food through the digestive canal to the physiological processes of food digestion, absorption and elimination come under the purview of this specialty.      It includes the medical and surgical treatment of diseases such as colon polyps, gastrointestinal cancer, jaundice, cirrhosis of the liver, gastroesophageal reflux (heartburn), peptic ulcer disease, colitis, gallbladder and biliary tract disease, nutritional problems, Irritable Bowel Syndrome (IBS), pancreatitis, etc",
@@ -52,10 +56,11 @@
     "doctor": "Mrs. Obel Gariza",
     "doctor_img": "https://i.pinimg.com/originals/dc/ed/43/dced43e37346454620fe662e6da0d652.jpg",
     "appointment": "11am to 2pm",
-    "contact": "obel@gmail.com"
+    "contact": "obel@gmail.com",
+    "job": "Gastrology Specialist"
   },
   {
-    "id": 6,
+    "id": "6",
     "name": "Treatment of Cancer",
     "img": "https://www.healtheuropa.eu/wp-content/uploads/2021/08/%C2%A9-iStock-Phynart-Studio-696x392.jpg",
     "small_desc": "To the thousands of patients who visit for cancer treatment, the Medicare Cancer Centre symbolizes hope that Cancer is Conquerable. The Cancer care system at Medicare involves over 125 surgical and radiation Oncology specialists as well as diagnostic consultants that offer comprehensive Cancer Care. The mission is to take the fight against cancer to the next frontier, and redefine clinical benchmarks and outcomes.",
@@ -63,6 +68,7 @@
     "doctor": "Mrs. Harry Cane",
     "doctor_img": "https://i.pinimg.com/originals/14/cb/53/14cb53b8325764d8d387005ff8e4150c.jpg",
     "appointment": "10am to 4pm",
-    "contact": "harry@gmail.com"
+    "contact": "harry@gmail.com",
+    "job": "Cancer Specialist"
   }
 ]

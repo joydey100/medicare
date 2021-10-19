@@ -8,9 +8,12 @@ const Footer = () => {
       <Container>
         <Row className="pt-5">
           {/* 1st Column */}
-          <Col md={4} className="d-flex align-items-center">
+          <Col md={4} className="d-flex align-items-center mt-3 mt-md-0">
             <div className="logo">
-              <h2> MediCare</h2>
+              <h2 className="mb-3">
+                {" "}
+                <i className="fas fa-user-md me-2"></i> MediCare
+              </h2>
               <p className="fs-6">
                 {" "}
                 MediCare Takes Every Possible Steps to make your body Healthy
@@ -19,7 +22,7 @@ const Footer = () => {
             </div>
           </Col>
           {/* 2nd Column */}
-          <Col md={2}>
+          <Col md={2} className="mt-3 mt-md-0">
             <h4> Quick Links</h4>
             <div className="links mt-3 d-flex flex-column">
               <NavLink to="/" className="text-white text-decoration-none mb-2">
@@ -40,7 +43,7 @@ const Footer = () => {
             </div>
           </Col>
           {/* 3rd Column */}
-          <Col md={3}>
+          <Col md={3} className="mt-3 mt-md-0">
             <h4> Social Media</h4>
             <div className="links mt-3 d-flex flex-column">
               <NavLink to="/" className="text-white text-decoration-none mb-2">
@@ -62,7 +65,7 @@ const Footer = () => {
           </Col>
 
           {/* 4th Column */}
-          <Col md={3}>
+          <Col md={3} className="mt-3 mt-md-0">
             <h4> Find Us</h4>
             <div className="location mt-3">
               <p>

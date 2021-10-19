@@ -13,9 +13,8 @@ const Contact = () => {
               Contact Us
             </h2>
             <p className="text-center text-secondary mt-3">
-              If you have any queries for Help, instructor and other kinds of
-              stuff, Feel Free to Contact with us. Our Support Team is 24/7 Hour
-              Active to support you.
+              If you have any queries for Help, Feel Free to Contact with us.
+              Our Support Team is 24/7 Hour Active to support for you.
             </p>
           </Col>
         </Row>
