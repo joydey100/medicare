@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Treatment of Heart",
+    "img": "https://www.umcvc.org/sites/default/files/styles/full_size_image/public/Patient%20receiving%20EECP%20treatment.jpg?itok=ZePAFL5Q",
+    "small_desc": "Medicare Heart Centre is where skill and modern technology meet to save and improve lives of both the young and old. From life saving cardiac surgeries to high –tech interventional cardiology –our team of specialist cover the full spectrum of heart diseases with skill and precision.",
+    "highlights": "We have vast experience in the most complicated coronary artery bypass surgery, surgery for all types of valvular heart diseases, paediatric heart surgery, adult and paediatric heart transplantation with success rates comparable to international standards. We have been rated as the best heart surgery in our Country. Over 99.6% of our cardiac bypass surgeries are Beating Heart surgeries which ensure quicker and easier post-operative recovery. Our cardiologists are pioneers in Coronary Artery Stenting, Laser Angioplasty and in techniques as advanced as Percutaneous Transluminal Septal Myocardial Ablation. Our heart transplantation programme is one of the most successful in the country.",
+    "doctor": "Mr. Fredrich Walcott",
+    "doctor_img": "https://familycounsellorwindsor.com/wp-content/uploads/2016/11/bigstock-Young-medical-doctor-man-isola-105272324-1170x1169.jpg",
+    "appointment": "7am to 8pm",
+    "contact": "walcott@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Treatment of Orthopedic Problem",
+    "img": "https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/04/GettyImages-951890054_header-1024x575.jpg?w=1155&h=1528",
+    "small_desc": "Medicare Institutes of Orthopedics is regarded as one of the best & top orthopedics hospital with a legacy of innovation and excellence. The Institutes are at the forefront in offering the latest in Orthopedic treatmentsand Orthopedic surgical advancements. Our Orthopedicians trained at the top centres worldwide, bring with them the latest and best techniques and work in our facilities that have the latest cutting edge technology in terms of equipments, operating rooms, recovery areas and advanced Physical therapy facilities.",
+    "highlights": "Medicare offers key & best orthopedic surgeries and procedures. We perform bone and joint replacement surgeries which include the most current Arthroscopic and Reconstructive techniques. Joint replacements including hip resurfacing and knee replacement surgery [primary, complex primary & revision replacements] are being done in large numbers with excellent outcomes. We also provide Shoulder surgeries and the most delicate hand micro surgeries are all performed with great precision and expertise. Medicare is also a pioneer in Articular cartilage Implantation (ACI). Cartilage regeneration surgery, including micro-fracturing, mosaic-plasty are all performed. The Apollo Cartilage School is leveraging developments in Orthobiologicals and growth factors to herald a new age of regenerative medicine.",
+    "doctor": "Mrs. Sara Willamson",
+    "doctor_img": "https://media.istockphoto.com/photos/african-ethnicity-female-doctor-with-a-face-mask-picture-id1277478866?b=1&k=20&m=1277478866&s=170667a&w=0&h=rjNovwD961yFXdpxiAVJwNNL0jzwnN0j05zuCucryTo=",
+    "appointment": "10am to 9pm",
+    "contact": "sara@gmail.com"
+  },
+  {
+    "id": 3,
+    "name": "Treatment of Spine",
+    "img": "https://www.hopkinsmedicine.org/-/media/images/health/1_-conditions/back-pain-and-spine-conditions/back-exam-teaser.ashx",
+    "small_desc": "The spine surgeons perform major and complex spine surgery. Apollo Hospitals is indeed a pioneer and one of the foremost institutions for spine surgery. The spine surgery units at the various locations are a conglomeration of spine specialists in the treatment of spinal disorders, cancers,  deformities as well as specialists in the areas of pain management and physiotherapy. Some of the latest techniques including minimally invasive and robotic surgeries have been done at the various hospitals of the group. The complete range of management options for treating back pain and  spinal disorders are available. Our Spine doctors  will check for list of common spine diseases and conditions of the patient and provide treatment based on the observation",
+    "highlights": "The Spine Surgery Centers of Medicare have many medical milestones to their credit – the first lumbar disc replacement in the country was performed at Apollo Hospitals, and several cervical spine surgeries and lumbar disc replacements have also been performed. We have best spine surgical team & specialists in India with vast background of dealing with complex spinal procedures. The Centers perform the full range of spinal procedures from Minimally Invasive Spine Surgery (MISS), to major spine surgery procedures like complex spinal reconstructions.",
+    "doctor": "Mr. Willam Wundt",
+    "doctor_img": "https://media.istockphoto.com/photos/male-medical-professional-is-confident-in-studio-picture-id1201439096?b=1&k=20&m=1201439096&s=170667a&w=0&h=YXdCLIT-e-reXi8xY-iUkg1XR4_C6TSXrljaHiFmhEU=",
+    "appointment": "11am to 5pm",
+    "contact": "william@gmail.com"
+  },
+  {
+    "id": 4,
+    "name": "Treatment of Neurological Problem",
+    "img": "https://image.freepik.com/free-photo/professional-doctor-neuroscience-developing-treatment-neurological-diseases-examining-patient-evolutions-doctor-researcher-adjusting-eeg-headset-analyzing-brain-functions-health-status_482257-13087.jpg",
+    "small_desc": "Ably assisted by the latest Neuro-Radiology services, Neuro-Intensive Care facilities and Medical and Radiation Oncology services, our Neurologists and Neurosurgeons achieve outcomes in neurological disease & treatments matching those of the leading institutions across the globe. Neurosurgery a branch of surgery involved with the brain injury, spine and nerves, is a key specialty at Apollo hospitals. Our neurosurgery doctors treat neurological diseases such as brain injury or diseases, head injury, spinal injury, brain tumors, spinal tumors, brain hemorrhage, hydrocephalus, nerve injuries, tumors, disc prolapse or herniation, spinal dislocation, unstable spine, congenital malformations like atlanto-axial dislocation, spinal dysraphism etc. Treatment of seizures or epilepsy as well as modern treatments for movement disorders like Parkinson’s disease are further specializations. More than 1000 major neurosurgeries are being carried out every year.",
+    "highlights": "Our neurologists will check for complex neurology diseases and conditions of the patient and provide treatment based on the observation. Today, Neuroanaesthesia, Neurosurgical intensive care and Neuro-imaging technology have advanced so much that mortality has significantly reduced and functional outcomes have improved tremendously. Minimally invasive techniques help decrease the mortality and morbidity associated with surgery. With a team led by some of the best neurosurgeons in India, preservation of all functions, good cosmetic outcome, shorter hospital stay and avoiding pain and discomfort are considered as important as saving a patient’s life. The integrated team of neurologists, neurosurgeons, neuroanesthetists, neuro physicians and intensivists along with rehabilitation specialists are dedicated to this goal.",
+    "doctor": "Mrs. Harmony Stevens",
+    "doctor_img": "https://i.pinimg.com/550x/e9/3d/49/e93d49d69fc4d9208faac67f7743ce3a.jpg",
+    "appointment": "12pm to 4pm",
+    "contact": "stevens@gmail.com"
+  },
+  {
+    "id": 5,
+    "name": "Treatment of Gastrological Problem",
+    "img": "https://aakashhealthcare.com/sites/default/files/inline-images/1%20%287%29.JPG",
+    "small_desc": "Gastroenterology essentially addresses diseases of the esophagus, stomach, small intestine, colon and rectum, pancreas, gallbladder, bile ducts and liver. The functioning of the entire digestive system, both related to the passage of food through the digestive canal to the physiological processes of food digestion, absorption and elimination come under the purview of this specialty.      It includes the medical and surgical treatment of diseases such as colon polyps, gastrointestinal cancer, jaundice, cirrhosis of the liver, gastroesophageal reflux (heartburn), peptic ulcer disease, colitis, gallbladder and biliary tract disease, nutritional problems, Irritable Bowel Syndrome (IBS), pancreatitis, etc",
+    "highlights": "The latest Endoscopic procedures are done for gastrointestinal bleed, gastrointestinal cancers, foreign body removal etc. Endosonography and Capsule Endoscopy are available too. The Gastrointestinal surgeons manage major treatments related to gastrointestinal surgical problems of the intestines, pancreas and hepatobiliary tract [liver and gallbladder] including cancers, many of them through Minimal Access surgery. Our comprehensive Liver Transplant programme is well known for its highly successful adult and pediatric Liver Transplant programmes and cutting edge hepatobiliary procedures. Disorders of the pancreas as well as pancreatic and intestinal transplants are also performed.",
+    "doctor": "Mrs. Obel Gariza",
+    "doctor_img": "https://i.pinimg.com/originals/dc/ed/43/dced43e37346454620fe662e6da0d652.jpg",
+    "appointment": "11am to 2pm",
+    "contact": "obel@gmail.com"
+  },
+  {
+    "id": 6,
+    "name": "Treatment of Cancer",
+    "img": "https://www.healtheuropa.eu/wp-content/uploads/2021/08/%C2%A9-iStock-Phynart-Studio-696x392.jpg",
+    "small_desc": "To the thousands of patients who visit for cancer treatment, the Medicare Cancer Centre symbolizes hope that Cancer is Conquerable. The Cancer care system at Medicare involves over 125 surgical and radiation Oncology specialists as well as diagnostic consultants that offer comprehensive Cancer Care. The mission is to take the fight against cancer to the next frontier, and redefine clinical benchmarks and outcomes.",
+    "highlights": "Medicare provides comprehensive cancer care with best treatment facilities. Our expert team of oncologists examines every case jointly and decides on the best line of cancer treatment for the patient. Specially trained medical counsellors, speech therapists, dieticians and other professionals, appropriate to each individual case, provide support to the team of cancer specialists. The measurable success that the hospitals have achieved in Cancer Care attracts thousands of national and international patients each year who come from over 120 countries.",
+    "doctor": "Mrs. Harry Cane",
+    "doctor_img": "https://i.pinimg.com/originals/14/cb/53/14cb53b8325764d8d387005ff8e4150c.jpg",
+    "appointment": "10am to 4pm",
+    "contact": "harry@gmail.com"
+  }
+]
