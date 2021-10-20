@@ -41,7 +41,6 @@ const Register = () => {
     // user creation
     createUser(name, email, password)
       .then((userCredential) => {
-        history.push(redirect_uri);
         const user = userCredential.user;
         setUserName(name);
         setUser(user);
